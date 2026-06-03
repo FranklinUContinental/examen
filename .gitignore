@@ -1,0 +1,46 @@
+# --- IDE / Editor ---
+.idea/
+.vscode/
+*.iml
+
+# --- Archivos temporales de Microsoft Office ---
+~$*
+*.tmp
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- LaTeX (artefactos de compilación) ---
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# --- Claude / Claude Code ---
+.claude/
+.claude.json
+.claude.local.json
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
+*.claude
+claude-*.log
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
