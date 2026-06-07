@@ -1,0 +1,3 @@
+1. Efectos fijos
+2. Efectos aleatorios
+3. Efectos mixtos

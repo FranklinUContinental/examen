@@ -1,0 +1,13 @@
+# Dependencias para reproducir el análisis factorial (codigo/analisis_factorial.ipynb)
+# Instalación:  pip install -r requirements.txt
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+matplotlib>=3.7
+seaborn>=0.12
+# Para reconstruir el notebook con build_notebook.py:
+nbformat>=5.9
+jupyter>=1.0
+# Para ejecutar las pruebas unitarias (test_analisis.py):
+pytest>=7.0
